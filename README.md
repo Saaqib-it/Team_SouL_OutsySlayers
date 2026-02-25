@@ -4,7 +4,7 @@ Google Drive Link -- https://drive.google.com/drive/folders/1By6CmJ-Eddt8ErtBIKZ
 # Duality AI Hackathon Submission
 
 ## Team: Team SouL
-## Final IoU Score: 0.5877
+## Final mAP Score: 0.8106
 
 ## How to Run
 
